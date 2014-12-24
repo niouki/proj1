@@ -17,13 +17,13 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.aetnent.history.ios.kids.TheMissingPiece</string>
+                <string>com.aetnent.history.ios.kids.NousCinq</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>MissingPiece</string>
+                <string>Nous Cinq</string>
             </dict>
         </dict>
     </array>
